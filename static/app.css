@@ -1,0 +1,30 @@
+html,
+body {
+    width: 100%;
+}
+
+table {
+    margin: 0 auto;
+    color: blue;
+}
+
+h1 {
+    letter-spacing: .2rem;
+}
+
+
+td {
+    padding: 1rem;
+    text-align: center;
+    column-rule: blue;
+    border: solid 1px black;
+    margin: 0;
+}
+
+td:hover {
+    cursor: pointer;
+}
+
+.board-container {
+    text-align: center;
+}
